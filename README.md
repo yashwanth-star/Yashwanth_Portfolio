@@ -1,15 +1,11 @@
 # Yashwanth_Portfolio
 Data Science Portfolio
 ## Project 1 : Advanced-Data Analysis of Economic Activity in Wales and England 
-Project Title: Advanced Data Analysis of Economic Activity in Wales and England
-Location: Bristol
-Duration: April 2022 - May 2022
+###Key Responsibilities and Tasks:
 
-Key Responsibilities and Tasks:
+####Data Extraction and Cleaning:
 
-Data Extraction and Cleaning:
-
-Tools Used: Excel, Tableau
+####Tools Used: Excel, Tableau
 Activities:
 Extracted real-time economic activity data, ensuring accurate collection and formatting.
 Cleaned the dataset to remove inconsistencies and errors, ensuring high data quality for subsequent analysis.
