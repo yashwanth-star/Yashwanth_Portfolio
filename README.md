@@ -1,7 +1,7 @@
 # Yashwanth_Portfolio
 Data Science Portfolio
 ## Project 1 : Advanced-Data Analysis of Economic Activity in Wales and England 
-###Key Responsibilities and Tasks:
+### Key Responsibilities and Tasks:
 
 ####Data Extraction and Cleaning:
 
